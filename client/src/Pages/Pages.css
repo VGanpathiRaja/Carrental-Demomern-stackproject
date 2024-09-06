@@ -1,0 +1,30 @@
+.form-part span {
+    color: #ff0000fc;
+    padding: 10px 6px;
+    font-size: 16px;
+}
+
+.about-box .icon{
+    color: red;
+    font-size: 56px;
+    padding: 10px 15px;
+}
+.about-box h1{
+    color: #15aced;
+    font-size: 26px;
+}
+
+.success{
+    background-color: rgb(5, 152, 5);
+    color: #fff;
+    padding: 15px;
+  }
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    .form-part label,input{
+        padding: 10px 0;
+    }
+    
+  }
